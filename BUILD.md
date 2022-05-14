@@ -1,4 +1,4 @@
-To run the backend, you need flask:
+To run the backend, you need pyhton (flask) :
 
 1) cd backend
 
