@@ -1,5 +1,5 @@
 # ChatBot_SMU
-A ChatBot that makes your university life easier. Simple mobile application created with React Native and python.
+A ChatBot that makes your university life easier. Simple mobile chatbot application created with React Native and python.
 
 ## Contribution
 
