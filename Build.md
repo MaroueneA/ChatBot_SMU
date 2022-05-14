@@ -1,5 +1,7 @@
 To run the backend, you need flask:
 
+cd backend
+
 Flask run
 
 To run the frontend:
