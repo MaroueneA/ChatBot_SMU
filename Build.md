@@ -1,12 +1,13 @@
 To run the backend, you need flask:
 
-cd backend
+1) cd backend
 
-Flask run
+2) Flask run
+
 
 To run the frontend:
 
-1)install dependecies: 
+1) install dependecies: 
 npm install
 
 2) Start: 
@@ -14,6 +15,6 @@ npm start
 
 To preview it on mobile, you need expo go:
 
-npm install --global expo-cli
+1) npm install --global expo-cli
 
-expo start
+2) expo start
