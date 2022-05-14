@@ -1,0 +1,10 @@
+POST http://127.0.0.1:5000/api/academia
+Content-Type: application/json
+
+{
+"choice" : "software"
+}
+
+###
+
+GET http://127.0.0.1:5000/
